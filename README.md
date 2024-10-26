@@ -14,6 +14,12 @@ O Programanas é uma iniciativa que visa introduzir conceitos fundamentais de Ci
 - Apresentar fundamentos de estatística descritiva
 - Proporcionar uma primeira experiência prática com Ciência de Dados
 
+📚 Conteúdo 
+Este repositório contém alguns dos materiais do curso:
+
+📁 Conjuntos de dados para prática
+📝 Exercícios práticos
+
 ## 📚 Conteúdo do Curso
 
 Este repositório contém todo o material necessário para acompanhar o curso:
